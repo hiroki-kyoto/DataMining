@@ -1,0 +1,16 @@
+On Alibaba Big Data Contest
+Bruce Shung
+
+1.	Cross time: 4/15 – 8/15 (4 MONTH)
+Date Segments:
+Peroid I: 4/15-5/15
+Peroid II: 5/15-6/15
+Peroid III: 6/15-7/15
+Peroid IV: 7/15-8/15
+
+
+2.	ANN build user-purchase-behavior patterns to predict next month (8/15—9/15)
+BP Network Model
+Double Hidden-layers
+
+3.	This is off-line contest, the second match will be on-line.
